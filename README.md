@@ -15,6 +15,7 @@ Difficulty Level
  ###  🟢 1. Ejercicio 1 JAVA - Cálculos Básicos ✔️
  ###  🟢 2. Ejercicio 2 Java - CALCULO AREA CÍRCULO  ✔️
  ###  🟢 3. Ejercicio 3 JAVA - Tabla de MULTIPLICAR sin bucles. ✔️
- ###  🟢 4. Ejercicio 4 JAVA - Concatenar CHAR.
+ ###  🟢 4. Ejercicio 4 JAVA - Concatenar CHAR. ✔️
+ ###  🟢 5. Ejercicio 6 JAVA - ¿Es DIVISIBLE Entre 2 Y 5?
  
 
